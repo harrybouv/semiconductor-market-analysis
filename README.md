@@ -5,6 +5,7 @@ Research project analysing whether the current AI/semiconductor boom shows bubbl
 ## Content of the Repo
 'paper/'; - 'full_paper_v1.pdf'; full write up of the quantitative analysis conducted
 note, an executive summary and fully LaTeX formatted paper will also be pushed
+
 'scripts/s'; Python scripts used for data collection, valuation metrics, decomposition and plotting
 
 ## Method
