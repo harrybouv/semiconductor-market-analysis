@@ -4,8 +4,8 @@ Research project analysing whether the current AI/semiconductor boom shows bubbl
 
 ## Content of the Repo
 'paper/'; - 'full_paper_v1.pdf'; full write up of the quantitative analysis conducted
-
-Note, an executive summary and fully LaTeX formatted paper will also be pushed
+          - 'Quantitative_Market_Analysis_of_Semiconfuctor_and_AI_Valuations (1).pdf'; fully structured, LaTeX formatted paper
+          - 'executive-summary.pdf'; 3-page executive summary of full paper
 
 'scripts/s'; Python scripts used for data collection, valuation metrics, decomposition and plotting
 
@@ -19,6 +19,4 @@ Note, an executive summary and fully LaTeX formatted paper will also be pushed
 - ## Reproducibility
 This repo does not include raw datasets or API keys. Scripts are provided to regenerate analysis where possible; any required data sources are described in the paper.
 
-## Future Expansion
-- Add executive summary ~2 pages and final LaTeX formatted version
-- Improve script organisation
+
